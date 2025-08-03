@@ -1,0 +1,12 @@
+
+
+🔧 O que o exercício pede?
+
+Criar um sistema que gerencia um estoque de produtos, com as operações de:
+
+Adicionar produto
+
+Remover produto
+
+Listar todos os produtos
+Usando a estrutura Vector e laço tradicional (com índice) para iterar.
